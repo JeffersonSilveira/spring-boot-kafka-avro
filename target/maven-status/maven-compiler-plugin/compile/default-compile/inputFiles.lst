@@ -1,0 +1,13 @@
+C:\Users\Jefferson\Music\projeto\demo-spring-boot\spring-boot-kafka-avro\src\main\java\com\empresa\springboot\kafka\avro\config\KafkaProducerConfig.java
+C:\Users\Jefferson\Music\projeto\demo-spring-boot\spring-boot-kafka-avro\src\main\java\com\empresa\springboot\kafka\avro\config\SwaggerConfig.java
+C:\Users\Jefferson\Music\projeto\demo-spring-boot\spring-boot-kafka-avro\src\main\java\com\empresa\springboot\kafka\avro\config\ApplicationConfig.java
+C:\Users\Jefferson\Music\projeto\demo-spring-boot\spring-boot-kafka-avro\target\generated\avro\com\empresa\springboot\kafka\avro\model\Student.java
+C:\Users\Jefferson\Music\projeto\demo-spring-boot\spring-boot-kafka-avro\src\main\java\com\empresa\springboot\kafka\avro\controller\KafkaAvroController.java
+C:\Users\Jefferson\Music\projeto\demo-spring-boot\spring-boot-kafka-avro\src\main\java\com\empresa\springboot\kafka\avro\config\KafkaConsumerConfig.java
+C:\Users\Jefferson\Music\projeto\demo-spring-boot\spring-boot-kafka-avro\src\main\java\com\empresa\springboot\kafka\avro\model\SampleReferenceStudent.java
+C:\Users\Jefferson\Music\projeto\demo-spring-boot\spring-boot-kafka-avro\src\main\java\com\empresa\springboot\kafka\avro\SpringBootKafkaAvroApplication.java
+C:\Users\Jefferson\Music\projeto\demo-spring-boot\spring-boot-kafka-avro\src\main\java\com\empresa\springboot\kafka\avro\serializer\AvroSerializer.java
+C:\Users\Jefferson\Music\projeto\demo-spring-boot\spring-boot-kafka-avro\src\main\java\com\empresa\springboot\kafka\avro\service\ProducerService.java
+C:\Users\Jefferson\Music\projeto\demo-spring-boot\spring-boot-kafka-avro\src\main\java\com\empresa\springboot\kafka\avro\config\KafkaTopicConfig.java
+C:\Users\Jefferson\Music\projeto\demo-spring-boot\spring-boot-kafka-avro\src\main\java\com\empresa\springboot\kafka\avro\listener\KafkaAvroMessageConsumer.java
+C:\Users\Jefferson\Music\projeto\demo-spring-boot\spring-boot-kafka-avro\src\main\java\com\empresa\springboot\kafka\avro\serializer\AvroDeserializer.java
